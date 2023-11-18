@@ -1,6 +1,5 @@
 #include <Arduino.h>
 #include <Adafruit_ADS1x15.h>
-//#include <SPI.h>
 #include <Wire.h>
 #include <math.h>
 //#include <Adafruit_GFX.h>
