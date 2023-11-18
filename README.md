@@ -2,7 +2,7 @@
 
 Digital RF Power and SWR meter in collaboration with R H.
 
-Var4.01 'Original Commit' is a basic code example to establish the 'workability' of the schematic, pcb and code. Other features to be added in future versions.
+Ver4.01 'Original Commit' is a basic code example to establish the 'workability' of the schematic, pcb and code. Other features to be added in future versions.
 
 High Performance HF Power meter using a Directional Coupler feeding into logarithmic converters (AD3807 log amps) which are read by an Arduino Nano via I2C using 16bit ADC's (ADS1115).
 
