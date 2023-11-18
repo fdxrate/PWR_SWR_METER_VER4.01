@@ -1,6 +1,6 @@
 # PWR_SWR_METER_VER4.01
 
-Digital RF Power and SWR meter in collaboration with Richard Hosking.
+Digital RF Power and SWR meter in collaboration with R H.
 
 Var4.01 'Original Commit' is a basic code example to establish the 'workability' of the schematic, pcb and code. Other features to be added in future versions.
 
