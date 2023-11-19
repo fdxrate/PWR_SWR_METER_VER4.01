@@ -64,7 +64,7 @@ float SlopeCalc = SlopeAD8307*1000/SlopeADS1115;    // 200 steps/dBm
 int ZeroIntercept = -94;                // dBm - Determined by testing and calibrating the AD8307 sensor.
 
 int AttenPCB = 50;                      // dB = 22.4dB for the PCB attenuator + 27.6dB for the transformer.
-int TotalAtten = -44;                   // ZeroIntercept + AttenPCB. (dBm)
+int TotalAtten = ZeroIntercept + AttenPCB;  // ZeroIntercept + AttenPCB. (dBm)
 
 float peakFWD = 0.000, peakRFL = 0.000, maxFWD = 0.000;
 
