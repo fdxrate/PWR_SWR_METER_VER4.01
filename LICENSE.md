@@ -1,4 +1,5 @@
 Copyright
+
 This software is Copyright (c) 2023 Geoff Smith. Use is subject to license conditions. The main licensing options available are GPL V3 or Commercial:
 
 Open Source Licensing GPL V3
